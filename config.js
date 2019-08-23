@@ -1,0 +1,5 @@
+config = {
+	news: {
+		url: '/hello'
+	}
+};
